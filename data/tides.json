@@ -1,8 +1,79 @@
 {
-  "tides": [
-    { "type": "low", "timestamp": "2024-01-08T00:56:00Z", "height": 1.1 },
-    { "type": "high", "timestamp": "2024-01-08T06:43:00Z", "height": 1.8 },
-    { "type": "low", "timestamp": "2024-01-08T13:33:00Z", "height": 1.0 },
-    { "type": "high", "timestamp": "2024-01-08T17:36:00Z", "height": 1.7 }
+  "dates": [
+    {
+      "date": "2024-01-09",
+      "tides": [
+        {
+          "type": "Low",
+          "time": "01:53",
+          "height": "1.0m"
+        },
+        {
+          "type": "High",
+          "time": "06:05",
+          "height": "1.9m"
+        },
+        {
+          "type": "Low",
+          "time": "14:27",
+          "height": "0.8m"
+        },
+        {
+          "type": "High",
+          "time": "19:47",
+          "height": "1.8m"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-10",
+      "tides": [
+        {
+          "type": "Low",
+          "time": "02:47",
+          "height": "0.9m"
+        },
+        {
+          "type": "High",
+          "time": "07:02",
+          "height": "2.1m"
+        },
+        {
+          "type": "Low",
+          "time": "15:17",
+          "height": "0.7m"
+        },
+        {
+          "type": "High",
+          "time": "20:35",
+          "height": "1.9m"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-11",
+      "tides": [
+        {
+          "type": "Low",
+          "time": "03:38",
+          "height": "0.8m"
+        },
+        {
+          "type": "High",
+          "time": "08:36",
+          "height": "2.2m"
+        },
+        {
+          "type": "Low",
+          "time": "16:06",
+          "height": "0.5m"
+        },
+        {
+          "type": "High",
+          "time": "21:23",
+          "height": "2.0m"
+        }
+      ]
+    }
   ]
 }
