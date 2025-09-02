@@ -6,42 +6,33 @@
         "description": "Thundery showers and a moderate breeze",
         "weatherType": 29,
         "maximumTemperature": 19,
-        "minimumTemperature": 15,
+        "minimumTemperature": 16,
         "sunrise": "06:23",
         "sunset": "19:52"
       },
       "hours": [
         {
-          "time": "11:00",
-          "temperature": 17,
-          "chanceOfRain": 89,
-          "windSpeedMph": 18,
-          "windDirection": "S",
-          "weatherType": 15,
-          "weatherTypeDescription": "Heavy Rain"
-        },
-        {
           "time": "12:00",
           "temperature": 17,
-          "chanceOfRain": 74,
+          "chanceOfRain": 88,
           "windSpeedMph": 17,
+          "windDirection": "S",
+          "weatherType": 10,
+          "weatherTypeDescription": "Light Rain Showers"
+        },
+        {
+          "time": "13:00",
+          "temperature": 18,
+          "chanceOfRain": 84,
+          "windSpeedMph": 16,
           "windDirection": "SSW",
           "weatherType": 29,
           "weatherTypeDescription": "Thundery Showers"
         },
         {
-          "time": "13:00",
-          "temperature": 18,
-          "chanceOfRain": 78,
-          "windSpeedMph": 16,
-          "windDirection": "SSW",
-          "weatherType": 12,
-          "weatherTypeDescription": "Light Rain"
-        },
-        {
           "time": "14:00",
-          "temperature": 17,
-          "chanceOfRain": 38,
+          "temperature": 18,
+          "chanceOfRain": 49,
           "windSpeedMph": 16,
           "windDirection": "SW",
           "weatherType": 10,
@@ -49,26 +40,26 @@
         },
         {
           "time": "15:00",
-          "temperature": 19,
-          "chanceOfRain": 18,
-          "windSpeedMph": 17,
+          "temperature": 18,
+          "chanceOfRain": 29,
+          "windSpeedMph": 16,
           "windDirection": "SW",
-          "weatherType": 29,
-          "weatherTypeDescription": "Thundery Showers"
+          "weatherType": 10,
+          "weatherTypeDescription": "Light Rain Showers"
         },
         {
           "time": "16:00",
           "temperature": 19,
-          "chanceOfRain": 24,
-          "windSpeedMph": 17,
+          "chanceOfRain": 33,
+          "windSpeedMph": 15,
           "windDirection": "SW",
-          "weatherType": 3,
-          "weatherTypeDescription": "Sunny Intervals"
+          "weatherType": 10,
+          "weatherTypeDescription": "Light Rain Showers"
         },
         {
           "time": "17:00",
-          "temperature": 18,
-          "chanceOfRain": 26,
+          "temperature": 19,
+          "chanceOfRain": 25,
           "windSpeedMph": 15,
           "windDirection": "SW",
           "weatherType": 3,
@@ -77,7 +68,7 @@
         {
           "time": "18:00",
           "temperature": 18,
-          "chanceOfRain": 15,
+          "chanceOfRain": 0,
           "windSpeedMph": 14,
           "windDirection": "SW",
           "weatherType": 3,
@@ -87,8 +78,8 @@
           "time": "19:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 14,
-          "windDirection": "SW",
+          "windSpeedMph": 13,
+          "windDirection": "WSW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
         },
@@ -96,7 +87,7 @@
           "time": "20:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 15,
+          "windSpeedMph": 14,
           "windDirection": "WSW",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
@@ -114,7 +105,7 @@
           "time": "22:00",
           "temperature": 17,
           "chanceOfRain": 0,
-          "windSpeedMph": 17,
+          "windSpeedMph": 18,
           "windDirection": "WSW",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
@@ -122,27 +113,27 @@
         {
           "time": "23:00",
           "temperature": 17,
-          "chanceOfRain": 20,
+          "chanceOfRain": 23,
           "windSpeedMph": 17,
           "windDirection": "WSW",
-          "weatherType": 2,
-          "weatherTypeDescription": "Partly Cloudy"
+          "weatherType": 7,
+          "weatherTypeDescription": "Light Cloud"
         },
         {
           "time": "00:00",
-          "temperature": 16,
-          "chanceOfRain": 48,
-          "windSpeedMph": 16,
+          "temperature": 17,
+          "chanceOfRain": 44,
+          "windSpeedMph": 17,
           "windDirection": "SW",
-          "weatherType": 12,
-          "weatherTypeDescription": "Light Rain"
+          "weatherType": 11,
+          "weatherTypeDescription": "Drizzle"
         },
         {
           "time": "01:00",
           "temperature": 16,
-          "chanceOfRain": 66,
+          "chanceOfRain": 76,
           "windSpeedMph": 16,
-          "windDirection": "SW",
+          "windDirection": "SSW",
           "weatherType": 12,
           "weatherTypeDescription": "Light Rain"
         },
@@ -150,7 +141,7 @@
           "time": "02:00",
           "temperature": 17,
           "chanceOfRain": 80,
-          "windSpeedMph": 19,
+          "windSpeedMph": 21,
           "windDirection": "SSW",
           "weatherType": 15,
           "weatherTypeDescription": "Heavy Rain"
@@ -159,7 +150,7 @@
           "time": "03:00",
           "temperature": 17,
           "chanceOfRain": 80,
-          "windSpeedMph": 23,
+          "windSpeedMph": 26,
           "windDirection": "SSW",
           "weatherType": 15,
           "weatherTypeDescription": "Heavy Rain"
@@ -168,7 +159,7 @@
           "time": "04:00",
           "temperature": 17,
           "chanceOfRain": 80,
-          "windSpeedMph": 28,
+          "windSpeedMph": 31,
           "windDirection": "SSW",
           "weatherType": 15,
           "weatherTypeDescription": "Heavy Rain"
@@ -177,7 +168,7 @@
           "time": "05:00",
           "temperature": 18,
           "chanceOfRain": 80,
-          "windSpeedMph": 29,
+          "windSpeedMph": 30,
           "windDirection": "SSW",
           "weatherType": 15,
           "weatherTypeDescription": "Heavy Rain"
@@ -198,53 +189,53 @@
         {
           "time": "06:00",
           "temperature": 18,
-          "chanceOfRain": 70,
-          "windSpeedMph": 29,
+          "chanceOfRain": 80,
+          "windSpeedMph": 30,
           "windDirection": "SW",
-          "weatherType": 15,
-          "weatherTypeDescription": "Heavy Rain"
+          "weatherType": 12,
+          "weatherTypeDescription": "Light Rain"
         },
         {
           "time": "07:00",
           "temperature": 18,
-          "chanceOfRain": 70,
-          "windSpeedMph": 28,
-          "windDirection": "SW",
-          "weatherType": 12,
-          "weatherTypeDescription": "Light Rain"
+          "chanceOfRain": 76,
+          "windSpeedMph": 29,
+          "windDirection": "SSW",
+          "weatherType": 29,
+          "weatherTypeDescription": "Thundery Showers"
         },
         {
           "time": "08:00",
           "temperature": 18,
-          "chanceOfRain": 70,
+          "chanceOfRain": 80,
           "windSpeedMph": 28,
           "windDirection": "SSW",
-          "weatherType": 12,
-          "weatherTypeDescription": "Light Rain"
+          "weatherType": 29,
+          "weatherTypeDescription": "Thundery Showers"
         },
         {
           "time": "09:00",
           "temperature": 18,
-          "chanceOfRain": 70,
-          "windSpeedMph": 27,
-          "windDirection": "SSW",
-          "weatherType": 15,
-          "weatherTypeDescription": "Heavy Rain"
+          "chanceOfRain": 80,
+          "windSpeedMph": 28,
+          "windDirection": "SW",
+          "weatherType": 29,
+          "weatherTypeDescription": "Thundery Showers"
         },
         {
           "time": "10:00",
           "temperature": 18,
-          "chanceOfRain": 70,
-          "windSpeedMph": 26,
+          "chanceOfRain": 80,
+          "windSpeedMph": 27,
           "windDirection": "SSW",
-          "weatherType": 15,
-          "weatherTypeDescription": "Heavy Rain"
+          "weatherType": 29,
+          "weatherTypeDescription": "Thundery Showers"
         },
         {
           "time": "11:00",
           "temperature": 18,
-          "chanceOfRain": 70,
-          "windSpeedMph": 26,
+          "chanceOfRain": 80,
+          "windSpeedMph": 27,
           "windDirection": "SSW",
           "weatherType": 29,
           "weatherTypeDescription": "Thundery Showers"
@@ -261,8 +252,8 @@
         {
           "time": "13:00",
           "temperature": 18,
-          "chanceOfRain": 40,
-          "windSpeedMph": 28,
+          "chanceOfRain": 45,
+          "windSpeedMph": 27,
           "windDirection": "SW",
           "weatherType": 29,
           "weatherTypeDescription": "Thundery Showers"
@@ -270,8 +261,8 @@
         {
           "time": "14:00",
           "temperature": 18,
-          "chanceOfRain": 52,
-          "windSpeedMph": 28,
+          "chanceOfRain": 61,
+          "windSpeedMph": 26,
           "windDirection": "SW",
           "weatherType": 10,
           "weatherTypeDescription": "Light Rain Showers"
@@ -279,16 +270,16 @@
         {
           "time": "15:00",
           "temperature": 19,
-          "chanceOfRain": 16,
+          "chanceOfRain": 11,
           "windSpeedMph": 26,
-          "windDirection": "SW",
+          "windDirection": "WSW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
         },
         {
           "time": "16:00",
-          "temperature": 18,
-          "chanceOfRain": 11,
+          "temperature": 19,
+          "chanceOfRain": 6,
           "windSpeedMph": 26,
           "windDirection": "WSW",
           "weatherType": 3,
@@ -298,7 +289,7 @@
           "time": "17:00",
           "temperature": 19,
           "chanceOfRain": 0,
-          "windSpeedMph": 26,
+          "windSpeedMph": 25,
           "windDirection": "WSW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
@@ -336,8 +327,8 @@
           "chanceOfRain": 0,
           "windSpeedMph": 20,
           "windDirection": "WSW",
-          "weatherType": 2,
-          "weatherTypeDescription": "Partly Cloudy"
+          "weatherType": 0,
+          "weatherTypeDescription": "Clear Sky"
         },
         {
           "time": "22:00",
@@ -351,8 +342,8 @@
         {
           "time": "23:00",
           "temperature": 16,
-          "chanceOfRain": 9,
-          "windSpeedMph": 18,
+          "chanceOfRain": 22,
+          "windSpeedMph": 19,
           "windDirection": "WSW",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
@@ -360,25 +351,25 @@
         {
           "time": "00:00",
           "temperature": 16,
-          "chanceOfRain": 12,
+          "chanceOfRain": 42,
           "windSpeedMph": 18,
-          "windDirection": "WSW",
-          "weatherType": 2,
-          "weatherTypeDescription": "Partly Cloudy"
+          "windDirection": "SW",
+          "weatherType": 9,
+          "weatherTypeDescription": "Light Rain Showers"
         },
         {
           "time": "01:00",
           "temperature": 16,
-          "chanceOfRain": 18,
+          "chanceOfRain": 49,
           "windSpeedMph": 18,
           "windDirection": "SW",
-          "weatherType": 2,
-          "weatherTypeDescription": "Partly Cloudy"
+          "weatherType": 9,
+          "weatherTypeDescription": "Light Rain Showers"
         },
         {
           "time": "02:00",
           "temperature": 16,
-          "chanceOfRain": 60,
+          "chanceOfRain": 70,
           "windSpeedMph": 17,
           "windDirection": "SW",
           "weatherType": 9,
@@ -390,8 +381,8 @@
           "chanceOfRain": 70,
           "windSpeedMph": 17,
           "windDirection": "SW",
-          "weatherType": 9,
-          "weatherTypeDescription": "Light Rain Showers"
+          "weatherType": 15,
+          "weatherTypeDescription": "Heavy Rain"
         },
         {
           "time": "04:00",
@@ -405,7 +396,7 @@
         {
           "time": "05:00",
           "temperature": 15,
-          "chanceOfRain": 70,
+          "chanceOfRain": 55,
           "windSpeedMph": 17,
           "windDirection": "SW",
           "weatherType": 9,
@@ -416,8 +407,8 @@
     {
       "date": "2025-09-04",
       "summary": {
-        "description": "Light rain showers and a moderate breeze",
-        "weatherType": 10,
+        "description": "Sunny intervals and a moderate breeze",
+        "weatherType": 3,
         "maximumTemperature": 19,
         "minimumTemperature": 11,
         "sunrise": "06:26",
@@ -427,8 +418,8 @@
         {
           "time": "06:00",
           "temperature": 15,
-          "chanceOfRain": 70,
-          "windSpeedMph": 17,
+          "chanceOfRain": 49,
+          "windSpeedMph": 18,
           "windDirection": "SW",
           "weatherType": 9,
           "weatherTypeDescription": "Light Rain Showers"
@@ -436,17 +427,17 @@
         {
           "time": "07:00",
           "temperature": 15,
-          "chanceOfRain": 70,
-          "windSpeedMph": 17,
+          "chanceOfRain": 39,
+          "windSpeedMph": 18,
           "windDirection": "SW",
-          "weatherType": 15,
-          "weatherTypeDescription": "Heavy Rain"
+          "weatherType": 10,
+          "weatherTypeDescription": "Light Rain Showers"
         },
         {
           "time": "08:00",
           "temperature": 15,
-          "chanceOfRain": 30,
-          "windSpeedMph": 17,
+          "chanceOfRain": 27,
+          "windSpeedMph": 18,
           "windDirection": "SW",
           "weatherType": 10,
           "weatherTypeDescription": "Light Rain Showers"
@@ -454,7 +445,7 @@
         {
           "time": "09:00",
           "temperature": 16,
-          "chanceOfRain": 38,
+          "chanceOfRain": 25,
           "windSpeedMph": 18,
           "windDirection": "WSW",
           "weatherType": 10,
@@ -462,17 +453,17 @@
         },
         {
           "time": "10:00",
-          "temperature": 17,
-          "chanceOfRain": 26,
-          "windSpeedMph": 17,
+          "temperature": 16,
+          "chanceOfRain": 22,
+          "windSpeedMph": 18,
           "windDirection": "WSW",
-          "weatherType": 10,
-          "weatherTypeDescription": "Light Rain Showers"
+          "weatherType": 3,
+          "weatherTypeDescription": "Sunny Intervals"
         },
         {
           "time": "11:00",
           "temperature": 17,
-          "chanceOfRain": 12,
+          "chanceOfRain": 7,
           "windSpeedMph": 18,
           "windDirection": "WSW",
           "weatherType": 3,
@@ -481,7 +472,7 @@
         {
           "time": "12:00",
           "temperature": 17,
-          "chanceOfRain": 9,
+          "chanceOfRain": 7,
           "windSpeedMph": 18,
           "windDirection": "WSW",
           "weatherType": 3,
@@ -490,7 +481,7 @@
         {
           "time": "13:00",
           "temperature": 18,
-          "chanceOfRain": 11,
+          "chanceOfRain": 9,
           "windSpeedMph": 18,
           "windDirection": "WSW",
           "weatherType": 3,
@@ -499,7 +490,7 @@
         {
           "time": "14:00",
           "temperature": 17,
-          "chanceOfRain": 12,
+          "chanceOfRain": 0,
           "windSpeedMph": 18,
           "windDirection": "WSW",
           "weatherType": 3,
@@ -508,7 +499,7 @@
         {
           "time": "15:00",
           "temperature": 18,
-          "chanceOfRain": 11,
+          "chanceOfRain": 10,
           "windSpeedMph": 18,
           "windDirection": "WSW",
           "weatherType": 3,
@@ -516,17 +507,17 @@
         },
         {
           "time": "16:00",
-          "temperature": 19,
-          "chanceOfRain": 14,
+          "temperature": 18,
+          "chanceOfRain": 15,
           "windSpeedMph": 18,
-          "windDirection": "W",
+          "windDirection": "WSW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
         },
         {
           "time": "17:00",
-          "temperature": 19,
-          "chanceOfRain": 10,
+          "temperature": 18,
+          "chanceOfRain": 16,
           "windSpeedMph": 17,
           "windDirection": "W",
           "weatherType": 3,
@@ -535,16 +526,16 @@
         {
           "time": "18:00",
           "temperature": 18,
-          "chanceOfRain": 9,
-          "windSpeedMph": 15,
-          "windDirection": "WSW",
-          "weatherType": 1,
-          "weatherTypeDescription": "Sunny"
+          "chanceOfRain": 14,
+          "windSpeedMph": 16,
+          "windDirection": "W",
+          "weatherType": 3,
+          "weatherTypeDescription": "Sunny Intervals"
         },
         {
           "time": "19:00",
           "temperature": 17,
-          "chanceOfRain": 0,
+          "chanceOfRain": 13,
           "windSpeedMph": 14,
           "windDirection": "W",
           "weatherType": 1,
@@ -553,7 +544,7 @@
         {
           "time": "20:00",
           "temperature": 17,
-          "chanceOfRain": 0,
+          "chanceOfRain": 8,
           "windSpeedMph": 13,
           "windDirection": "W",
           "weatherType": 0,
@@ -562,8 +553,8 @@
         {
           "time": "21:00",
           "temperature": 16,
-          "chanceOfRain": 0,
-          "windSpeedMph": 11,
+          "chanceOfRain": 7,
+          "windSpeedMph": 12,
           "windDirection": "W",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -571,7 +562,7 @@
         {
           "time": "22:00",
           "temperature": 15,
-          "chanceOfRain": 0,
+          "chanceOfRain": 5,
           "windSpeedMph": 11,
           "windDirection": "W",
           "weatherType": 0,
@@ -580,8 +571,8 @@
         {
           "time": "23:00",
           "temperature": 15,
-          "chanceOfRain": 0,
-          "windSpeedMph": 11,
+          "chanceOfRain": 4,
+          "windSpeedMph": 10,
           "windDirection": "W",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -590,7 +581,7 @@
           "time": "00:00",
           "temperature": 14,
           "chanceOfRain": 0,
-          "windSpeedMph": 11,
+          "windSpeedMph": 10,
           "windDirection": "W",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -599,7 +590,7 @@
           "time": "01:00",
           "temperature": 14,
           "chanceOfRain": 0,
-          "windSpeedMph": 11,
+          "windSpeedMph": 10,
           "windDirection": "W",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -608,7 +599,7 @@
           "time": "02:00",
           "temperature": 14,
           "chanceOfRain": 0,
-          "windSpeedMph": 11,
+          "windSpeedMph": 10,
           "windDirection": "W",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -645,7 +636,7 @@
     {
       "date": "2025-09-05",
       "summary": {
-        "description": "Sunny intervals and a moderate breeze",
+        "description": "Sunny intervals and a gentle breeze",
         "weatherType": 3,
         "maximumTemperature": 19,
         "minimumTemperature": 13,
@@ -657,7 +648,7 @@
           "time": "06:00",
           "temperature": 13,
           "chanceOfRain": 0,
-          "windSpeedMph": 9,
+          "windSpeedMph": 8,
           "windDirection": "W",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -675,8 +666,8 @@
           "time": "08:00",
           "temperature": 15,
           "chanceOfRain": 0,
-          "windSpeedMph": 9,
-          "windDirection": "WSW",
+          "windSpeedMph": 8,
+          "windDirection": "W",
           "weatherType": 1,
           "weatherTypeDescription": "Sunny"
         },
@@ -693,7 +684,7 @@
           "time": "10:00",
           "temperature": 17,
           "chanceOfRain": 0,
-          "windSpeedMph": 10,
+          "windSpeedMph": 9,
           "windDirection": "WSW",
           "weatherType": 1,
           "weatherTypeDescription": "Sunny"
@@ -701,8 +692,8 @@
         {
           "time": "11:00",
           "temperature": 17,
-          "chanceOfRain": 6,
-          "windSpeedMph": 11,
+          "chanceOfRain": 0,
+          "windSpeedMph": 10,
           "windDirection": "WSW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
@@ -711,7 +702,7 @@
           "time": "12:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 12,
+          "windSpeedMph": 11,
           "windDirection": "SW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
@@ -720,7 +711,7 @@
           "time": "13:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 13,
+          "windSpeedMph": 12,
           "windDirection": "SW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
@@ -729,7 +720,7 @@
           "time": "14:00",
           "temperature": 17,
           "chanceOfRain": 0,
-          "windSpeedMph": 13,
+          "windSpeedMph": 12,
           "windDirection": "SW",
           "weatherType": 3,
           "weatherTypeDescription": "Sunny Intervals"
@@ -767,14 +758,14 @@
           "chanceOfRain": 0,
           "windSpeedMph": 10,
           "windDirection": "SW",
-          "weatherType": 1,
-          "weatherTypeDescription": "Sunny"
+          "weatherType": 3,
+          "weatherTypeDescription": "Sunny Intervals"
         },
         {
           "time": "19:00",
           "temperature": 17,
           "chanceOfRain": 0,
-          "windSpeedMph": 10,
+          "windSpeedMph": 9,
           "windDirection": "SW",
           "weatherType": 1,
           "weatherTypeDescription": "Sunny"
@@ -783,7 +774,7 @@
           "time": "20:00",
           "temperature": 17,
           "chanceOfRain": 0,
-          "windSpeedMph": 9,
+          "windSpeedMph": 8,
           "windDirection": "SSW",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -792,7 +783,7 @@
           "time": "21:00",
           "temperature": 16,
           "chanceOfRain": 0,
-          "windSpeedMph": 7,
+          "windSpeedMph": 6,
           "windDirection": "SSW",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -801,16 +792,16 @@
           "time": "22:00",
           "temperature": 15,
           "chanceOfRain": 0,
-          "windSpeedMph": 7,
+          "windSpeedMph": 6,
           "windDirection": "SSW",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
         },
         {
           "time": "23:00",
-          "temperature": 16,
+          "temperature": 15,
           "chanceOfRain": 0,
-          "windSpeedMph": 7,
+          "windSpeedMph": 6,
           "windDirection": "S",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -819,17 +810,17 @@
           "time": "00:00",
           "temperature": 15,
           "chanceOfRain": 0,
-          "windSpeedMph": 7,
+          "windSpeedMph": 6,
           "windDirection": "S",
-          "weatherType": 2,
-          "weatherTypeDescription": "Partly Cloudy"
+          "weatherType": 0,
+          "weatherTypeDescription": "Clear Sky"
         },
         {
           "time": "01:00",
-          "temperature": 16,
+          "temperature": 15,
           "chanceOfRain": 0,
-          "windSpeedMph": 8,
-          "windDirection": "S",
+          "windSpeedMph": 7,
+          "windDirection": "SSE",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
         },
@@ -837,7 +828,7 @@
           "time": "02:00",
           "temperature": 16,
           "chanceOfRain": 0,
-          "windSpeedMph": 9,
+          "windSpeedMph": 8,
           "windDirection": "SSE",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
@@ -857,14 +848,14 @@
           "chanceOfRain": 0,
           "windSpeedMph": 10,
           "windDirection": "SSE",
-          "weatherType": 0,
-          "weatherTypeDescription": "Clear Sky"
+          "weatherType": 2,
+          "weatherTypeDescription": "Partly Cloudy"
         },
         {
           "time": "05:00",
           "temperature": 16,
           "chanceOfRain": 0,
-          "windSpeedMph": 10,
+          "windSpeedMph": 11,
           "windDirection": "SSE",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -876,7 +867,7 @@
       "summary": {
         "description": "Sunny and a moderate breeze",
         "weatherType": 1,
-        "maximumTemperature": 19,
+        "maximumTemperature": 20,
         "minimumTemperature": 15,
         "sunrise": "06:29",
         "sunset": "19:43"
@@ -911,7 +902,7 @@
         },
         {
           "time": "09:00",
-          "temperature": 17,
+          "temperature": 18,
           "chanceOfRain": 0,
           "windSpeedMph": 14,
           "windDirection": "SSE",
@@ -922,31 +913,13 @@
           "time": "10:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 14,
+          "windSpeedMph": 15,
           "windDirection": "SSE",
           "weatherType": 1,
           "weatherTypeDescription": "Sunny"
         },
         {
           "time": "11:00",
-          "temperature": 18,
-          "chanceOfRain": 0,
-          "windSpeedMph": 15,
-          "windDirection": "SSE",
-          "weatherType": 1,
-          "weatherTypeDescription": "Sunny"
-        },
-        {
-          "time": "12:00",
-          "temperature": 18,
-          "chanceOfRain": 0,
-          "windSpeedMph": 15,
-          "windDirection": "SSE",
-          "weatherType": 1,
-          "weatherTypeDescription": "Sunny"
-        },
-        {
-          "time": "13:00",
           "temperature": 19,
           "chanceOfRain": 0,
           "windSpeedMph": 15,
@@ -955,11 +928,29 @@
           "weatherTypeDescription": "Sunny"
         },
         {
+          "time": "12:00",
+          "temperature": 19,
+          "chanceOfRain": 0,
+          "windSpeedMph": 15,
+          "windDirection": "SE",
+          "weatherType": 1,
+          "weatherTypeDescription": "Sunny"
+        },
+        {
+          "time": "13:00",
+          "temperature": 19,
+          "chanceOfRain": 0,
+          "windSpeedMph": 15,
+          "windDirection": "SE",
+          "weatherType": 1,
+          "weatherTypeDescription": "Sunny"
+        },
+        {
           "time": "14:00",
           "temperature": 18,
           "chanceOfRain": 0,
           "windSpeedMph": 15,
-          "windDirection": "SSE",
+          "windDirection": "SE",
           "weatherType": 1,
           "weatherTypeDescription": "Sunny"
         },
@@ -994,25 +985,25 @@
           "time": "18:00",
           "temperature": 19,
           "chanceOfRain": 0,
-          "windSpeedMph": 14,
-          "windDirection": "SE",
+          "windSpeedMph": 15,
+          "windDirection": "ESE",
           "weatherType": 1,
           "weatherTypeDescription": "Sunny"
         },
         {
           "time": "19:00",
-          "temperature": 18,
+          "temperature": 19,
           "chanceOfRain": 0,
-          "windSpeedMph": 14,
+          "windSpeedMph": 15,
           "windDirection": "ESE",
           "weatherType": 1,
           "weatherTypeDescription": "Sunny"
         },
         {
           "time": "20:00",
-          "temperature": 18,
-          "chanceOfRain": 0,
-          "windSpeedMph": 13,
+          "temperature": 19,
+          "chanceOfRain": 24,
+          "windSpeedMph": 14,
           "windDirection": "ESE",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -1020,8 +1011,8 @@
         {
           "time": "21:00",
           "temperature": 18,
-          "chanceOfRain": 0,
-          "windSpeedMph": 13,
+          "chanceOfRain": 16,
+          "windSpeedMph": 14,
           "windDirection": "SE",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -1029,8 +1020,8 @@
         {
           "time": "22:00",
           "temperature": 18,
-          "chanceOfRain": 0,
-          "windSpeedMph": 13,
+          "chanceOfRain": 26,
+          "windSpeedMph": 14,
           "windDirection": "SE",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
@@ -1039,25 +1030,25 @@
           "time": "23:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 12,
+          "windSpeedMph": 14,
           "windDirection": "SE",
-          "weatherType": 0,
-          "weatherTypeDescription": "Clear Sky"
+          "weatherType": 2,
+          "weatherTypeDescription": "Partly Cloudy"
         },
         {
           "time": "00:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 12,
-          "windDirection": "SE",
-          "weatherType": 0,
-          "weatherTypeDescription": "Clear Sky"
+          "windSpeedMph": 14,
+          "windDirection": "SSE",
+          "weatherType": 2,
+          "weatherTypeDescription": "Partly Cloudy"
         },
         {
           "time": "01:00",
           "temperature": 18,
           "chanceOfRain": 0,
-          "windSpeedMph": 12,
+          "windSpeedMph": 14,
           "windDirection": "SSE",
           "weatherType": 0,
           "weatherTypeDescription": "Clear Sky"
@@ -1065,8 +1056,8 @@
         {
           "time": "02:00",
           "temperature": 18,
-          "chanceOfRain": 0,
-          "windSpeedMph": 12,
+          "chanceOfRain": 20,
+          "windSpeedMph": 14,
           "windDirection": "SSE",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
@@ -1074,29 +1065,29 @@
         {
           "time": "03:00",
           "temperature": 17,
-          "chanceOfRain": 0,
-          "windSpeedMph": 12,
-          "windDirection": "SSE",
+          "chanceOfRain": 20,
+          "windSpeedMph": 13,
+          "windDirection": "S",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
         },
         {
           "time": "04:00",
           "temperature": 17,
-          "chanceOfRain": 0,
-          "windSpeedMph": 11,
-          "windDirection": "SSE",
+          "chanceOfRain": 20,
+          "windSpeedMph": 13,
+          "windDirection": "S",
           "weatherType": 2,
           "weatherTypeDescription": "Partly Cloudy"
         },
         {
           "time": "05:00",
           "temperature": 17,
-          "chanceOfRain": 0,
-          "windSpeedMph": 11,
+          "chanceOfRain": 34,
+          "windSpeedMph": 12,
           "windDirection": "S",
-          "weatherType": 2,
-          "weatherTypeDescription": "Partly Cloudy"
+          "weatherType": 12,
+          "weatherTypeDescription": "Light Rain"
         }
       ]
     }
